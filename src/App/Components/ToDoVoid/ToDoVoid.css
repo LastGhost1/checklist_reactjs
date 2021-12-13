@@ -1,0 +1,15 @@
+.text-center{
+    text-align: center;
+}
+.icon-clipboard{
+    width:160px;
+    height:160px;
+    margin-top: 15%;
+    color: white;
+}
+.text-clipboard{
+    margin-top: 25px;
+    color: white;
+    font-size: 25px;
+    font-family: 'Montserrat';
+}
